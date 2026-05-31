@@ -1,0 +1,6 @@
+{
+  "name": "Bright Smile Dental Clinic",
+  "description": "Modern, premium dental clinic website for Bright Smile Dental Clinic led by Dr. Sarah Johnson.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
